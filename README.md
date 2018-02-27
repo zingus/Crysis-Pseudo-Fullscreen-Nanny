@@ -4,8 +4,14 @@ So, after only 11 years it's been around, I eventually started playing Crysis,
 the 2007 videogame with the astonishingly overpowered rendering engine.
 
 And I noticed it has some fullscreen issues. (i.e. it doesn't *stay*
-fullscreen, Crysis forgets you wanted it fullsceen as soon as you alt-tab out
-of it)
+fullscreen)
+
+In fact, Crysis forgets you wanted it fullscreen as soon as you alt-tab out
+of it, for whatever reason. From then on, it stays windowed. Being it a
+frustrating videogame where you sometimes need to get the timing right for the
+mission to succeed, it's very typical to take short pauses while playing it.
+but then each time you're supposed to go dig for the fullscreen option inside
+its graphics mode settings.
 
 So I devised an half assed *autohotkey* workaround, a script that:
 
