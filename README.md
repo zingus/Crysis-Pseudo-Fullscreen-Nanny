@@ -3,7 +3,9 @@
 So, after only 11 years it's been around, I eventually started playing Crysis,
 the 2007 videogame with the astonishingly overpowered rendering engine.
 
-And I noticed it has some fullscreen issues. (i.e. it doesn't *stay* fullscreen)
+And I noticed it has some fullscreen issues. (i.e. it doesn't *stay*
+fullscreen, Crysis forgets you wanted it fullsceen as soon as you alt-tab out
+of it)
 
 So I devised an half assed *autohotkey* workaround, a script that:
 
@@ -17,7 +19,7 @@ So I devised an half assed *autohotkey* workaround, a script that:
 
   * Install it by copying it to: `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup`
     Or simply run it each and every time you need it.
-    It discreetely waits in the background for a Crysis window to appear.
+    It discreetely awaits in the background for a Crysis window to appear.
     It shouldn't disrupt your everyday activities.
 
   * Tell me trough the [issue tracker][issues] if and how it isn't working for you.
