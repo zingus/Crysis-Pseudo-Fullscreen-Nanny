@@ -10,8 +10,8 @@ In fact, Crysis forgets you wanted it fullscreen as soon as you alt-tab out
 of it, for whatever reason. From then on, it stays windowed. Being it a
 frustrating videogame where you sometimes need to get the timing right for the
 mission to succeed, it's very typical to take short pauses while playing it.
-but then each time you're supposed to go dig for the fullscreen option inside
-its graphics mode settings.
+But afterwards you're supposed to go dig for the fullscreen option inside
+its graphics mode settings to re-enable it. No, thanks.
 
 So I devised an half assed *autohotkey* workaround, a script that:
 
