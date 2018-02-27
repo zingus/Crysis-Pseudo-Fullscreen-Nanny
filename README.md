@@ -5,11 +5,11 @@ the 2007 videogame with the astonishingly overpowered rendering engine.
 
 And I noticed it has some fullscreen issues. (i.e. it doesn't *stay* fullscreen)
 
-So I devised an half assed *autohotkey* workaround:
+So I devised an half assed *autohotkey* workaround, a script that:
 
-  1. It removes the window decorations
-  2. It centers Crysis Main Window
-  3. It adds a black backdrop behind it
+  1. removes the window decorations
+  2. centers Crysis main window
+  3. adds a black backdrop behind it
 
 # Usage
 
