@@ -12,4 +12,9 @@ So I devised an half assed workaround:
 
 # Download Binary
 
-Download the very early [v0.1](https://github.com/zingus/Crysis-Pseudo-Fullscreen-Nanny/releases/download/v0.1/Crysis.Pseudo-Fullscreen.Nanny.exe)
+Download the very early [v0.1 executable][1]
+
+Install it by copying it to:
+  `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup`
+
+[1]: https://github.com/zingus/Crysis-Pseudo-Fullscreen-Nanny/releases/download/v0.1/Crysis.Pseudo-Fullscreen.Nanny.exe
